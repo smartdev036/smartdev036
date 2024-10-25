@@ -8,14 +8,14 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working @ [blackcard](https://blackcard.dev/)
+- 🔭 I’m currently working @ [B2Wise](https://b2wise.com/)
 
 - 🌱 I’m currently learning **React, Next, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, AWS, React Native, Flutter, AWS**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/smartdev036?tab=repositories](https://github.com/smartdev036?tab=repositories)
 
 - 🌱 Contact me anytime
-  **: smartdev036@outlook.com**
+  **: smartdev0036@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
