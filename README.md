@@ -8,9 +8,7 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working @ [B2Wise](https://b2wise.com/)
-
-- 🌱 I’m currently learning **React, Next, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, AWS, React Native, Flutter, AWS**
+- 🌱 I’m currently learning **React, Next, Node, Gatsby, TailwindCSS, Laravel, ASP.NET, SpringBoot, AWS, React Native, Flutter, Bubble**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/smartdev036?tab=repositories](https://github.com/smartdev036?tab=repositories)
 
